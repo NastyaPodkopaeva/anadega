@@ -179,7 +179,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -209,11 +209,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-0"
         },
@@ -397,7 +398,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -427,11 +428,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-d"
         },
@@ -582,7 +584,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -612,11 +614,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-k"
         },
@@ -767,7 +770,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -797,11 +800,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-o"
         },
@@ -952,7 +956,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -982,11 +986,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         },
@@ -1126,7 +1131,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Главная страница</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\">Главная страница</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Портфолио</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/7/page5.html\">Репортаж</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/nu/page3.html\">НЮ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://nastyapodkopaeva.github.io/portrt/portret.html\" aria-expanded=\"false\">Портрет</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">автор</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://nastyapodkopaeva.github.io/kt/kt.html\" target=\"_blank\">контакты</a></li>",
           "_tags": [
             "Темы"
           ],
@@ -1156,11 +1161,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://nastyapodkopaeva.github.io/anadega/anadega.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://www.anadega.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://nastyapodkopaeva.github.io/anadega/anadega.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">anadega</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-g"
         },
